@@ -34,5 +34,12 @@
             "texto": "Inputs",
             "suubt": "blablabla"
         }
+        ,
+        {
+            "ruta" : "slider",
+            "icon": "tune",
+            "texto": "Sliders",
+            "suubt": "blablabla"
+        }
     ]
 }
