@@ -40,6 +40,12 @@
             "icon": "tune",
             "texto": "Sliders",
             "suubt": "blablabla"
+        },
+        {
+            "ruta" : "list",
+            "icon": "list",
+            "texto": "listas",
+            "suubt": "blablabla"
         }
     ]
 }
